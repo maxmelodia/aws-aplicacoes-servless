@@ -1,0 +1,16 @@
+[
+    {
+        "username": "maxwellduarte",
+        "password": "123",
+        "scopes": [
+            "heroes:list"
+        ]
+    },
+    {
+        "username": "wdsonduarte",
+        "password": "123",
+        "scopes": [
+            "heroes:create"
+        ]
+    }
+]
